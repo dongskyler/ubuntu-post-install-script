@@ -11,6 +11,6 @@
     "test": "bash ./test/test.sh && exit 0"
   },
   "devDependencies": {
-    "shellcheck": "^0.4.4"
+    "shellcheck": "^1.0.0"
   }
 }
